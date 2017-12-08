@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 8, 2017
 
 ### Student Name:  
-(First and Last Name)
+Kelli LaBelle
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment we used AJAX, JSON, and API together to help make a movie searcher that provides the title, plot, release date, popularity rating, the movie language and the movie poster.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://kel15b.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. We learned about the DOM element and changed it to fit what we needed.
+2. We learned about the JSON element and also changed it to fit what we needed.
+3. We also learned about the code/statement we needed inorder for us to get the movie information from IMBD.
